@@ -58,7 +58,7 @@ A simple application where user can play some music.
 ## 📁 Folder Structure
 
 ```bash
-Weather-App-JS/
+Music-Player/
 ├── index.html
 ├── style.css
 ├── img
